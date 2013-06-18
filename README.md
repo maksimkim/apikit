@@ -1,4 +1,4 @@
 apikit
 ======
 
-Launch you ASP.NET WebApi based app faster with common building blocks
+Launch you ASP.NET based API faster with common build blocks
